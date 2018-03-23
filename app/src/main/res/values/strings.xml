@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Home Maintenance App</string>
+    <string name="logout">Logout</string>
+    <string name="editdetails">Edit Details</string>
+    <string name="help_name">Help</string>
+    <string name="aboutus_name">About Us</string>
+    <string name="feedback_name">Feedback</string>
+
+
+    <!-- Strings related to login -->
+    _
+
+</resources>

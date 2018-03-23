@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283964052092",
+    "firebase_url": "https://hms-app-e27c2.firebaseio.com",
+    "project_id": "hms-app-e27c2",
+    "storage_bucket": "hms-app-e27c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283964052092:android:4a9ea0cbffbf1723",
+        "android_client_info": {
+          "package_name": "com.example.hp.hms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283964052092-v2o131t5hh7utf7fr9d9f90e8uj2jr8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzABWGfoq5rXYPDCLvruu5js8hG-Styjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
